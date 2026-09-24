@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="602" viewBox="0 0 1280 602" role="img">
+<style>text{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace} .b{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:gw 1.2s cubic-bezier(.2,.8,.2,1) forwards}@keyframes gw{to{transform:scaleX(1)}}</style>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="glowA" cx=".85" cy="0" r=".8"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB" cx="0" cy=".2" r=".7"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<clipPath id="clip"><rect width="1280" height="602" rx="18"/></clipPath>
+<g clip-path="url(#clip)">
+<rect width="1280" height="602" fill="#070b16"/>
+<rect width="1280" height="602" fill="url(#grid)"/>
+<rect width="1280" height="602" fill="url(#glowA)"/>
+<rect width="1280" height="602" fill="url(#glowB)"/>
+<text x="48" y="56" font-size="22" font-weight="800" fill="#e6ecff">12,202,942 records across nine intelligence families</text><text x="48" y="108" font-size="16" font-weight="700" fill="#e6ecff">Sanctions &amp; terror financing</text>
+<text x="48" y="128" font-size="12.5" fill="#8a97b8">OFAC · UN · EU · UK OFSI · national regimes worldwide</text>
+<rect x="470" y="96" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="96" width="600.0" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.15s"/>
+<text x="1232" y="109" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">3,148,373</text><text x="48" y="160" font-size="16" font-weight="700" fill="#e6ecff">Politically exposed persons</text>
+<text x="48" y="180" font-size="12.5" fill="#8a97b8">OpenSanctions · Wikidata · parliaments · asset declarations</text>
+<rect x="470" y="148" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="148" width="524.3" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.27s"/>
+<text x="1232" y="161" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">2,751,136</text><text x="48" y="212" font-size="16" font-weight="700" fill="#e6ecff">Corporate registry risk (MCA)</text>
+<text x="48" y="232" font-size="12.5" fill="#8a97b8">defaulting directors · struck-off · vanishing · SFIO/ED</text>
+<rect x="470" y="200" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="200" width="389.3" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.39s"/>
+<text x="1232" y="213" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">2,042,960</text><text x="48" y="264" font-size="16" font-weight="700" fill="#e6ecff">Offshore leaks (ICIJ)</text>
+<text x="48" y="284" font-size="12.5" fill="#8a97b8">Panama · Paradise · Pandora · Bahamas · Offshore Leaks</text>
+<rect x="470" y="252" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="252" width="307.1" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.51s"/>
+<text x="1232" y="265" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">1,611,201</text><text x="48" y="316" font-size="16" font-weight="700" fill="#e6ecff">Tax-exempt revocations (IRS)</text>
+<text x="48" y="336" font-size="12.5" fill="#8a97b8">US auto-revocation register</text>
+<rect x="470" y="304" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="304" width="229.8" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.63s"/>
+<text x="1232" y="317" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">1,205,856</text><text x="48" y="368" font-size="16" font-weight="700" fill="#e6ecff">Debarment &amp; exclusions</text>
+<text x="48" y="388" font-size="12.5" fill="#8a97b8">World Bank · ADB · AfDB · IDB · SAM.gov · HHS-OIG</text>
+<rect x="470" y="356" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="356" width="112.6" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.75s"/>
+<text x="1232" y="369" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">590,602</text><text x="48" y="420" font-size="16" font-weight="700" fill="#e6ecff">Other government risk registers</text>
+<text x="48" y="440" font-size="12.5" fill="#8a97b8">national gazettes · consumer alerts · export controls</text>
+<rect x="470" y="408" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="408" width="79.7" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.87s"/>
+<text x="1232" y="421" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">417,958</text><text x="48" y="472" font-size="16" font-weight="700" fill="#e6ecff">Regulatory enforcement &amp; defaulters</text>
+<text x="48" y="492" font-size="12.5" fill="#8a97b8">SEBI · NSE · BSE · NSDL · CDSL · FINRA · IBBI</text>
+<rect x="470" y="460" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="460" width="59.1" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:0.99s"/>
+<text x="1232" y="473" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">310,354</text><text x="48" y="524" font-size="16" font-weight="700" fill="#e6ecff">Law enforcement &amp; wanted</text>
+<text x="48" y="544" font-size="12.5" fill="#8a97b8">Interpol · CBI · NIA · state police · Europol</text>
+<rect x="470" y="512" width="600" height="14" rx="7" fill="#fff" fill-opacity=".05"/>
+<rect x="470" y="512" width="23.7" height="14" rx="7" fill="url(#gr)" class="b" style="animation-delay:1.11s"/>
+<text x="1232" y="525" text-anchor="end" class="mono" font-size="15" fill="#e6ecff">124,502</text>
+</g>
+<rect x=".5" y=".5" width="1279" height="601" rx="18" fill="none" stroke="#1c2744"/>
+</svg>

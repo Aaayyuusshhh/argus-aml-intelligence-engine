@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img">
+<style>text{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace} .c{animation:up .9s cubic-bezier(.2,.8,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}</style>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="glowA" cx=".85" cy="0" r=".8"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB" cx="0" cy=".2" r=".7"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<clipPath id="clip"><rect width="1280" height="250" rx="18"/></clipPath>
+<g clip-path="url(#clip)">
+<rect width="1280" height="250" fill="#070b16"/>
+<rect width="1280" height="250" fill="url(#grid)"/>
+<rect width="1280" height="250" fill="url(#glowA)"/>
+<rect width="1280" height="250" fill="url(#glowB)"/>
+<g class="c" style="animation-delay:0.00s">
+<rect x="48" y="40" width="278" height="170" rx="16" fill="#0d1426" stroke="#1c2744"/>
+<rect x="48" y="40" width="278" height="3" rx="1.5" fill="url(#gr)"/>
+<text x="74" y="118" font-size="54" font-weight="900" fill="url(#gr)">12.2M+</text>
+<text x="74" y="152" font-size="18" font-weight="700" fill="#e6ecff">watchlist records</text>
+<text x="74" y="180" font-size="13.5" fill="#8a97b8">12,202,942 rows in PostgreSQL</text></g><g class="c" style="animation-delay:0.18s">
+<rect x="350" y="40" width="278" height="170" rx="16" fill="#0d1426" stroke="#1c2744"/>
+<rect x="350" y="40" width="278" height="3" rx="1.5" fill="url(#gr)"/>
+<text x="376" y="118" font-size="54" font-weight="900" fill="url(#gr)">800</text>
+<text x="376" y="152" font-size="18" font-weight="700" fill="#e6ecff">live data sources</text>
+<text x="376" y="180" font-size="13.5" fill="#8a97b8">of 1,193 registered · 561 agencies</text></g><g class="c" style="animation-delay:0.36s">
+<rect x="652" y="40" width="278" height="170" rx="16" fill="#0d1426" stroke="#1c2744"/>
+<rect x="652" y="40" width="278" height="3" rx="1.5" fill="url(#gr)"/>
+<text x="678" y="118" font-size="54" font-weight="900" fill="url(#gr)">7.2M</text>
+<text x="678" y="152" font-size="18" font-weight="700" fill="#e6ecff">entity-graph rows</text>
+<text x="678" y="180" font-size="13.5" fill="#8a97b8">5.36M links · 1.82M resolved groups</text></g><g class="c" style="animation-delay:0.54s">
+<rect x="954" y="40" width="278" height="170" rx="16" fill="#0d1426" stroke="#1c2744"/>
+<rect x="954" y="40" width="278" height="3" rx="1.5" fill="url(#gr)"/>
+<text x="980" y="118" font-size="54" font-weight="900" fill="url(#gr)">~0.2s</text>
+<text x="980" y="152" font-size="18" font-weight="700" fill="#e6ecff">typical screen</text>
+<text x="980" y="180" font-size="13.5" fill="#8a97b8">trigram fuzzy match over the full index</text></g>
+</g>
+<rect x=".5" y=".5" width="1279" height="249" rx="18" fill="none" stroke="#1c2744"/>
+</svg>
